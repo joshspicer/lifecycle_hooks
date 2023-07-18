@@ -9,5 +9,8 @@
    "features": {
      "ghcr.io/codspace/features-with-lifecycle-hooks/a": {},
      "ghcr.io/codspace/features-with-lifecycle-hooks/b": {}
-   }
+   },
+    "remoteEnv": {
+      "NO_PREBUILD": true
+    }
 }
